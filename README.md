@@ -20,13 +20,13 @@ Two players roll virtual dice, and the game instantly declares who wins — or i
 ---
 
 ## 🧱 Tech Stack
-| Layer | Technology           |
+| Layer | Technology |
 | :---- |:---------------------|
 | **Framework** | Next.js (App Router) |
-| **Language** | TypeScript           |
-| **Styling** | Tailwind CSS         |
-| **Package Manager** | PNPM                 |
-| **Runtime** | Node.js              |
+| **Language** | TypeScript |
+| **Styling** | Tailwind CSS |
+| **Package Manager** | PNPM |
+| **Runtime** | Node.js |
 
 ---
 
@@ -34,7 +34,7 @@ Two players roll virtual dice, and the game instantly declares who wins — or i
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/dicee-next.git
+git clone [https://github.com/Uthso66/dicee-next.git](https://github.com/Uthso66/dicee-next.git)
 
 # Enter project directory
 cd dicee-next
@@ -46,31 +46,37 @@ pnpm install
 pnpm run dev
 ````
 
-Then open 👉 [http://localhost:3000](http://localhost:3000) in your browser.
+Then open 👉 [http://localhost:3000](https://www.google.com/search?q=http://localhost:3000) in your browser.
 
----
+-----
 
 ## 📸 Preview
 
 Two dice roll side by side with a clear white gap between them — the winner is shown dynamically with smooth transitions and a vibrant gradient background.
 
----
+### Default View
+![Dicee Game Initial Setup](public/screen_shots/default_setup.png)
+### Player 1 Wins
+![Dicee Game Player 1 Wins](public/screen_shots/player_1_wins.png)
+### Player 2 Wins
+![Dicee Game Player 2 Wins](public/screen_shots/player_2_wins.png)
+-----
 
 ## 💡 Inspiration
 
 This project is inspired by **Angela Yu’s “The Complete Web Development Bootcamp”**
 Reimagined entirely using **Next.js + TypeScript** for a modern full-stack experience.
 
----
+-----
 
 ## 🧔 Author
 
 **Uthso**
 *Software QA Engineer • Security Enthusiast • AI/ML Hobbyist*
 
-🌐 [Portfolio](#) • 🐙 [GitHub](https://github.com/Uthso66) • 🧠 [LinkedIn](https://www.linkedin.com/in/tarikul-islam-uthso/)
+🌐 [Portfolio](https://www.google.com/search?q=%23) • 🐙 [GitHub](https://github.com/Uthso66) • 🧠 [LinkedIn](https://www.linkedin.com/in/tarikul-islam-uthso/)
 
----
+-----
 
 ## 🪄 License
 
