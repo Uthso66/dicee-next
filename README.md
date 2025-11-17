@@ -34,7 +34,7 @@ Two players roll virtual dice, and the game instantly declares who wins — or i
 
 ```bash
 # Clone the repository
-git clone [https://github.com/Uthso66/dicee-next.git](https://github.com/Uthso66/dicee-next.git)
+git clone https://github.com/Uthso66/dicee-next.git
 
 # Enter project directory
 cd dicee-next
