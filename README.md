@@ -60,6 +60,8 @@ Two dice roll side by side with a clear white gap between them — the winner is
 ![Dicee Game Player 1 Wins](public/screen_shots/player_1_wins.png)
 ### Player 2 Wins
 ![Dicee Game Player 2 Wins](public/screen_shots/player_2_wins.png)
+### Draw
+![Dicee Game Player 2 Wins](public/screen_shots/draw.png)
 -----
 
 ## 💡 Inspiration
